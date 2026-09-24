@@ -51,7 +51,7 @@
 
 ### 🚧 Projetos
 
-Ainda estou no começo da minha jornada como desenvolvedor, então meus primeiros projetos estão a caminho! Assim que estiverem prontos, vou fixá-los aqui no perfil.
+Tenho desenvolvido projetos para colocar em prática meus conhecimentos em programação e desenvolvimento de software. Em breve, estarei adicionando meus principais projetos aqui no perfil.
 
 ---
 
