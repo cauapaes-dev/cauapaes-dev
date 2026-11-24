@@ -64,7 +64,9 @@
 ### 🧠 Competências
 
 **Técnicas:** Programação Full Stack • Análise de dados • Versionamento com Git/GitHub • Uso de IA no desenvolvimento
+
 **Comportamentais:** Aprendizado rápido • Trabalho em equipe • Comunicação • Resolução de problemas • Pensamento analítico
+
 **Idiomas:** Português (nativo) • Inglês (básico)
 
 ---
